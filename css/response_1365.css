@@ -1,0 +1,115 @@
+@media (max-width: 1366px){
+    /*---------------
+        Main styles
+    ---------------*/
+    .main_title{
+        font-size: 35px;
+    }
+
+    .text_block p{
+        margin-bottom: 22px;
+    }
+
+
+    .bg_yellow:before{
+        width: 2000px;
+        height: 854px;
+    }
+
+    /*---------------
+        Header
+    ---------------*/
+
+    /*---------------
+        Main section
+    ---------------*/
+    .main_banner .title{
+        font-size: 37px;
+    }
+
+    .main_banner .title span.bg:before{
+        left: -17px;
+
+        width: calc(100% + 34px);
+    }
+
+
+    .advantages .grid{
+        --margin-left: 60px;
+    }
+
+    .advantages .item{
+        padding: 30px 0;
+    }
+
+    .advantages .item .icon{
+        width: 50px;
+        margin-right: 15px;
+    }
+
+    .advantages .item .name{
+        font-size: 16px;
+    }
+
+    .advantages .item .desc{
+        font-size: 12px;
+    }
+
+
+    .sect_forget{
+        padding: 70px 0 80px;
+    }
+
+    .sect_forget .item .wrap_img{
+        width: calc(47.5% - 15px);
+    }
+
+    .sect_forget .item .data{
+        width: calc(52.5% - 15px);
+    }
+
+
+    .product_info{
+        padding: 50px 0;
+    }
+
+    .product_info .bg_black{
+        top: 280px;
+    }
+
+    .product_info .bg_black:before{
+        width: 2000px;
+        height: 854px;
+    }
+
+
+    .sect_compare .grid{
+        --margin-left: 40px;
+    }
+
+    .sect_compare .item .thumb{
+        height: 160px;
+    }
+
+    .sect_compare .item .name{
+        font-size: 16px;
+    }
+
+    .sect_compare .item .count{
+        font-size: 60px;
+    }
+
+
+    .why_choose .grid{
+        --margin-left: 50px;
+    }
+
+
+    .sect_prices{
+        padding-bottom: 50px;
+    }
+
+    /*---------------
+        Footer
+    ---------------*/
+}

@@ -1,0 +1,57 @@
+@media (max-width: 479px){
+    /*---------------
+        Main styles
+    ---------------*/
+    .main_title{
+        font-size: 30px;
+    }
+
+    .cont{
+        padding: 0 15px;
+    }
+
+    /*---------------
+        Header
+    ---------------*/
+
+    /*---------------
+        Main section
+    ---------------*/
+    .main_banner .title{
+        font-size: 30px;
+    }
+
+
+    .product_info .wrap_img{
+        max-width: 260px;
+    }
+
+    .product_info .img .feature{
+        font-size: 14px;
+    }
+
+
+    .sect_compare .item .name{
+        font-size: 14px;
+    }
+
+    .sect_compare .item .desc{
+        font-size: 12px;
+    }
+
+    .sect_prices .line_offer .box_price .price{
+        font-size: 22px;
+    }
+
+    .sect_prices .line_offer .box_l{
+        width: calc(100% - 84px);
+    }
+
+    .sect_prices .line_offer .link_btn{
+        width: 80px;
+    }
+
+    /*---------------
+        Footer
+    ---------------*/
+}
